@@ -1,3 +1,0 @@
-C:/@github/@verywoo/game/build/CMakeFiles/emt-game.dir
-C:/@github/@verywoo/game/build/CMakeFiles/ALL_BUILD.dir
-C:/@github/@verywoo/game/build/CMakeFiles/ZERO_CHECK.dir
