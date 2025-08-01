@@ -40,6 +40,6 @@
 # debug information files
 *.dwo
 
-[Bb]build/
+[Bb]uild/
 [bb]in/
 .vscode/
